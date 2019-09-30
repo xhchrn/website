@@ -82,3 +82,8 @@ of Gifted Young, [University of Science and Technology of China](https://en.ustc
 My research focuses on sparse optimization and deep learning, recently in
 particular their analytical links and how that could help accelerate sparse
 solvers in a data-driven fashion. Here is my [CV](files/cv.pdf).
+
+Currently I am working as a Ph.D. intern at Max Planck Institute for
+Intelligent Systems in Tübingen, Germany, in collaboration with
+[Dr. Krikmol Muandet](http://krikamol.org/) and
+[Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang).
