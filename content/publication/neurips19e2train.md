@@ -1,6 +1,6 @@
 +++
 title = "E2-Train: Energy-Efficient Deep Network Training with Data-, Model-, and Algorithm-Level Saving"
-date = 2018-09-05T00:00:01
+date = 2019-09-03T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
