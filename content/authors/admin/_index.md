@@ -28,6 +28,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Machine Learning
+- Meta Learning
 
 education:
   courses:
