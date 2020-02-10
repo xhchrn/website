@@ -80,11 +80,16 @@ department, UCLA. Prior to that, I obtained my B. S. degree from the School
 of Gifted Young, [University of Science and Technology of China](https://en.ustc.edu.cn)
 (USTC), in 2017.
 
-My research focuses on sparse optimization and deep learning, recently in
-particular their analytical links and how that could help accelerate sparse
-solvers in a data-driven fashion. Here is my [CV](files/cv.pdf).
+My research focuses on learn-to-optimize, meta-learning and deep learning,
+recently in particular safeguarding learn-to-optimize models from failure cases
+and introducing meta-learning to neural architecture search and medical application.
+I am also actively working on (energy-)efficient inference/training for deep neural
+networks. Here is my [CV](files/cv.pdf).
 
-Currently I am working as a Ph.D. intern at Max Planck Institute for
+Recently I finished my research internship at Max Planck Institute for
 Intelligent Systems in Tübingen, Germany, in collaboration with
 [Dr. Krikmol Muandet](http://krikamol.org/) and
-[Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang).
+[Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang), on the topic of
+meta-learning.
+
+I will join Microsoft AI & Cloud as research intern in 2020 Summer.

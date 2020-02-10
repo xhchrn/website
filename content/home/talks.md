@@ -68,6 +68,8 @@ subtitle = ""
  css_class = ""
 +++
 
+* 10 / 2019, I gave a talk at Perceiving System, Max Planck Institute for
+  Intelligent Systems in Tübingen, Germany.
 * 12 / 2018, I gave a spotlight oral at NeurIPS 2018 in Montreal, Canada.
 * 11 / 2018, I attended a bio-seminar at ECE, Texas A&M to present my work about
   LISTA in NeurIPS 2018.

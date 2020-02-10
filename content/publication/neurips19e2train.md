@@ -42,11 +42,11 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
+url_pdf = "http://papers.nips.cc/paper/8757-e2-train-training-state-of-the-art-cnns-with-over-80-energy-savings.pdf"
+url_preprint = "https://arxiv.org/abs/1910.13349"
+url_code = "https://github.com/RICE-EIC/E2Train"
 url_dataset = ""
-url_project = ""
+url_project = "http://papers.nips.cc/paper/8757-e2-train-training-state-of-the-art-cnns-with-over-80-energy-savings"
 url_slides = ""
 url_video = ""
 url_poster = ""

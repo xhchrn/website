@@ -1,11 +1,10 @@
 +++
-title = "Plug-and-Play Methods Provably Converge with Properly Trained Denoisers"
-date = 2019-02-01T00:00:01
+title = "Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery"
+date = 2020-01-01T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["E. Ryu", "J. Liu", "S. Wang", "**X. Chen**", "Z. Wang", "W. Yin"]
-
+authors = ["Z. Huo", "A. Pakbin", "**X. Chen**", "N. Hurley", "Y. Yuan", "X. Qian", "Z. Wang", "S. Huang", "B. Mortazavi"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,11 +17,11 @@ authors = ["E. Ryu", "J. Liu", "S. Wang", "**X. Chen**", "Z. Wang", "W. Yin"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*The International Conference on Machine Learning* 2019"
-publication_short = "ICML '19"
+publication = "*International Conference on Artificial Intelligence and Statistics*"
+publication_short = "AISTATS '20"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Activity recognition in wearable computing faces two key challenges: i) activity characteristics may be context-dependent and change under different contexts or situations; ii) unknown contexts and activities may occur from time to time, requiring flexibility and adaptability of the algorithm. We develop a context-aware mixture of deep models termed the α-β network coupled with uncertainty quantification (UQ) based upon maximum entropy to enhance human activity recognition performance (accuracy and F-score) by 10% through identifying high-level contexts in a data-driven way to guide model development. In order to ensure the training stability, we have used a clustering based pretraining which has shown to be effective in our experiments in both public and an in-house dataset, demonstrating improved accuracy through unknown context discovery"
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,13 +42,13 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1905.05406.pdf"
-url_preprint = "https://arxiv.org/abs/1905.05406"
-url_code = "https://github.com/uclaopt/Provable_Plug_and_Play/"
+url_pdf = ""
+url_preprint = ""
+url_code = ""
 url_dataset = ""
-url_project = "https://www.math.ucla.edu/~wotaoyin/papers/plug-n-play.html"
-url_slides = "https://icml.cc/media/Slides/icml/2019/104(12-14-00)-12-15-00-5063-plug-and-play_m.pdf"
-url_video = "https://slideslive.com/38917408/optimization-convex-and-nonconvex"
+url_project = ""
+url_slides = ""
+url_video = ""
 url_poster = ""
 url_source = ""
 
@@ -70,3 +69,4 @@ image = ""
 caption = ""
 
 +++
+

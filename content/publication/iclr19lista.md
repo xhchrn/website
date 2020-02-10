@@ -43,12 +43,12 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://openreview.net/forum?id=B1lnzn0ctQ"
-url_code = ""
+url_pdf = "https://openreview.net/pdf?id=B1lnzn0ctQ"
+url_preprint = ""
+url_code = "https://github.com/TAMU-VITA/ALISTA"
 url_dataset = ""
-url_project = ""
-url_slides = ""
+url_project = "https://openreview.net/forum?id=B1lnzn0ctQ"
+url_slides = "https://www.math.ucla.edu/~wotaoyin/papers/pdf/ALISTA_slides_TAMU.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
