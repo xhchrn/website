@@ -68,10 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
-* [Jun. 2020 - Aug. 2020]  Research intern.  
- Microsoft Cloud & AI, Bellevue, WA, U.S.  
- Mentor(s): [Dr. Yu Cheng](https://sites.google.com/site/chengyu05), [Dr. Zhe Gan](https://zhegan27.github.io).
-* [Jun. 2019 - Nov. 2019]  Research intern.  
- Max Planck Institute for Intelligent Systems, Tübingen, Germany.  
- Mentor(s): [Dr. Krikamol Muandet](http://www.krikamol.org), [Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang).
+* Microsoft Cloud & AI, Research Intern.
+  * Mentor(s): [Dr. Yu Cheng](https://sites.google.com/site/chengyu05), [Dr. Zhe Gan](https://zhegan27.github.io).
+  * Jun. 2020 - Aug. 2020
+* Max Planck Institute for Intelligent Systems, Research Intern.
+  * Mentor(s): [Dr. Krikamol Muandet](http://www.krikamol.org), [Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang).
+  * Jun. 2019 - Nov. 2019
 
