@@ -45,7 +45,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://openreview.net/pdf?id=B1lnzn0ctQ"
 url_preprint = ""
-url_code = "https://github.com/TAMU-VITA/ALISTA"
+url_code = "https://github.com/VITA-Group/ALISTA"
 url_dataset = ""
 url_project = "https://openreview.net/forum?id=B1lnzn0ctQ"
 url_slides = "https://www.math.ucla.edu/~wotaoyin/papers/pdf/ALISTA_slides_TAMU.pdf"

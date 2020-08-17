@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 75  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Professional Experience"
 subtitle = ""
 
 [content]
@@ -68,8 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
-* [Oct. 2019] I gave a talk at Perceiving System, Max Planck Institute for Intelligent Systems in Tübingen, Germany.
-* [Dec. 2018] I gave a spotlight oral at NeurIPS 2018 in Montreal, Canada.
-* [Nov. 2018] I attended a bio-seminar at ECE, Texas A&M to present my work about LISTA in NeurIPS 2018.
-* [Mar. 2018] I attended Prof. Simon Foucart's reading seminar on Compressive Sensing, extensions, and applications and gave a presentation about learning-based sparse optimization.
+* [Jun. 2020 - Aug. 2020]  Research intern.  
+ Microsoft AI & Cloud, Bellevue, WA, U.S.  
+ Mentor(s): [Dr. Yu Cheng](https://sites.google.com/site/chengyu05), [Dr. Zhe Gan](https://zhegan27.github.io).
+* [Jun. 2019 - Nov. 2019]  Research intern.  
+ Max Planck Institute for Intelligent Systems, Tübingen, Germany.  
+ Mentor(s): [Dr. Krikamol Muandet](http://www.krikamol.org), [Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang).
 

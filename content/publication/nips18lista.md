@@ -45,7 +45,7 @@ tags = []
 # Links (optional).
 url_pdf = "papers/nips18lista.pdf"
 url_preprint = "https://arxiv.org/abs/1808.10038"
-url_code = "https://github.com/xchen-tamu/linear-lista-cpss"
+url_code = "https://github.com/VITA-Group/LISTA-CPSS"
 url_dataset = ""
 url_project = ""
 url_slides = "slides/nips18lista.pdf"

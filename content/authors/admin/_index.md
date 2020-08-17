@@ -25,13 +25,17 @@ bio: This is a short introduction to Xiaohan Chen.
 
 interests:
 - Sparse Optimization
-- Deep Learning
-- Computer Vision
-- Machine Learning
+- Learn to Optimize
 - Meta Learning
+- Efficient Deep Learning
+- Sparse Neural Networks
+- Lottery Ticket Hypothesis
 
 education:
   courses:
+  - course: Computer Science
+    institution: Texas A&M University
+    year: 2017-2020
   - course: BSc in Applied Mathematics
     institution: University of Science and Technology of China
     year: 2017
@@ -52,7 +56,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0sAg8Z4AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=fEehMTwAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/xhchrn
@@ -72,13 +76,13 @@ user_groups:
 - Visitors
 ---
 
-Howdy! I am a Ph.D. student (since 2017) in the Electrical and Computer Engineering Department, University of Texas at Austin, supervised by [Prof. Zhangyang Wang](http://www.atlaswang.com).
-Before I moved to UT Austin in Aug 2020, I was a Ph.D. student in the Computer Science and Engineering Department, [Texas A&M University](https://www.tamu.edu).
+Howdy! I am a Ph.D. student (since 2017) in the Electrical and Computer Engineering Department (DICE), University of Texas at Austin.
+I am a research assistant in the  **V**isual **I**nformatics Group @ University of **T**exas at **A**ustin ([VITA Group](https://vita-group.github.io/)), led by [Prof. Zhangyang Wang](https://www.atlaswang.com/).
+Before I moved to UT Austin in Aug 2020, I was a Ph.D. student in the Computer Science and Engineering Department, Texas A&M University.
 I also closely work with [Prof. Wotao Yin](http://www.math.ucla.edu/~wotaoyin/), in the Mathematics department, UCLA.
-Prior to the start of my Ph.D. program, I obtained my B. S. degree from the School of Gifted Young, [University of Science and Technology of China](https://en.ustc.edu.cn) (USTC), in 2017.
+Prior to the start of my Ph.D. program, I obtained my B. S. degree from the School of Gifted Young, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn)), in 2017.
 
-My research focuses on learn-to-optimize, meta-learning and general deep learning, recently in particular lottery ticket hypothesis and network analysis in neural networks.
-I am also actively working on (energy-)efficient inference/training for deep neural
-networks. Here is my [CV](files/cv.pdf).
+My research focuses on learn-to-optimize, meta-learning and efficient deep learning, and sparse neural networks, recently in particular the lottery ticket hypothesis and network analysis in neural networks.
+Here is my [CV](files/cv.pdf).
 
 Recently I finished my research internship at Microsoft AI & Cloud, supervised by [Dr. Yu Cheng](https://sites.google.com/site/chengyu05) and [Zhe Gan](https://zhegan27.github.io/).

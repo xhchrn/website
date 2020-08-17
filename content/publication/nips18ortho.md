@@ -45,7 +45,7 @@ tags = []
 # Links (optional).
 url_pdf = "papers/nips18ortho.pdf"
 url_preprint = "https://arxiv.org/abs/1810.09102"
-url_code = "https://github.com/nbansal90/Can-we-Gain-More-from-Orthogonality"
+url_code = "https://github.com/VITA-Group/Orthogonality-in-CNNs"
 url_dataset = ""
 url_project = ""
 url_slides = ""
