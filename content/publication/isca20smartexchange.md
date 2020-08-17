@@ -1,10 +1,11 @@
 +++
-title = "Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery"
-date = 2020-08-17T00:00:01
+title = "SmartExchange: Trading Higher-cost Memory Storage/Access for Lower-cost Computation "
+date = 2020-05-30T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Z. Huo", "A. Pakbin", "**X. Chen**", "N. Hurley", "Y. Yuan", "X. Qian", "Z. Wang", "S. Huang", "B. Mortazavi"]
+authors = ["Y. Zhao", "**X. Chen**", "Y. Wang", "C. Li", "Y. Xie", "Z. Wang", "Y. Lin"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -17,11 +18,11 @@ authors = ["Z. Huo", "A. Pakbin", "**X. Chen**", "N. Hurley", "Y. Yuan", "X. Qia
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*International Conference on Artificial Intelligence and Statistics*"
-publication_short = "AISTATS '20"
+publication = "*the 47th IEEE/ACM International Symposium on Computer Architecture*"
+publication_short = "ISCA '20"
 
 # Abstract and optional shortened version.
-abstract = "Activity recognition in wearable computing faces two key challenges: i) activity characteristics may be context-dependent and change under different contexts or situations; ii) unknown contexts and activities may occur from time to time, requiring flexibility and adaptability of the algorithm. We develop a context-aware mixture of deep models termed the α-β network coupled with uncertainty quantification (UQ) based upon maximum entropy to enhance human activity recognition performance (accuracy and F-score) by 10% through identifying high-level contexts in a data-driven way to guide model development. In order to ensure the training stability, we have used a clustering based pretraining which has shown to be effective in our experiments in both public and an in-house dataset, demonstrating improved accuracy through unknown context discovery"
+abstract = "We present SmartExchange, a hardware-algorithm co-design framework to trade higher cost memory storage/access for lower cost computation, for energy-efficient inference of deep neural networks (DNNs). We have developed a novel algorithm to enforce a specially favorable DNN weight structure, where each layerwise weight matrix can be stored as the product of a small basis matrix and a large sparse coefficient matrix whose non-zero elements are all power-of-2. The resulting sparse and readily-quantized DNN thus enjoys greatly reduced energy consumption of data movement as well as weight storage. To fully explore the potential of SmartExchange, we further design a dedicated accelerator to fully utilize the SmartExchange-enforced weights to improve both energy efficiency and latency. Extensive experiments using four DNN models show that the proposed accelerator can achieve up to 4.9×and 9.6×improvement in energy efficiency and energy-delay product, respectively, as compared to state-of-the-art DNN accelerators."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -69,4 +70,3 @@ image = ""
 caption = ""
 
 +++
-

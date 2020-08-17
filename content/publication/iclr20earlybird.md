@@ -1,6 +1,6 @@
 +++
 title = "Drawing Early-Bird Tickets: Toward More Efficient Training of Deep Networks"
-date = 2019-12-19T00:00:01
+date = 2020-04-26T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

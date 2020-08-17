@@ -14,10 +14,10 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Computer Science & Engineering
-  url: "https://engineering.tamu.edu/cse/index.html"
-- name: Texas A&M University
-  url: "http://www.tamu.edu"
+- name: Electrical and Computer Engineering
+  url: "https://www.ece.utexas.edu/"
+- name: University of Texas at Austin
+  url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: This is a short introduction to Xiaohan Chen.
@@ -35,7 +35,7 @@ education:
   - course: BSc in Applied Mathematics
     institution: University of Science and Technology of China
     year: 2017
-  - course: BEng in Computer Science (Minor)
+  - course: BEng in Computer Science (Double)
     institution: University of Science and Technology of China
     year: 2017
 
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chernxh@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:xiaohan.chen@utexas.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -72,24 +72,13 @@ user_groups:
 - Visitors
 ---
 
-Howdy! I am currently a second-year Ph.D. student in the Computer Science &
-Engineering department, Texas A&M University, supervised by [Prof. Zhangyang
-Wang](http://www.atlaswang.com). I also closely work with
-[Prof. Wotao Yin](http://www.math.ucla.edu/~wotaoyin/), in the Mathematics
-department, UCLA. Prior to that, I obtained my B. S. degree from the School
-of Gifted Young, [University of Science and Technology of China](https://en.ustc.edu.cn)
-(USTC), in 2017.
+Howdy! I am a Ph.D. student (since 2017) in the Electrical and Computer Engineering Department, University of Texas at Austin, supervised by [Prof. Zhangyang Wang](http://www.atlaswang.com).
+Before I moved to UT Austin in Aug 2020, I was a Ph.D. student in the Computer Science and Engineering Department, [Texas A&M University](https://www.tamu.edu).
+I also closely work with [Prof. Wotao Yin](http://www.math.ucla.edu/~wotaoyin/), in the Mathematics department, UCLA.
+Prior to the start of my Ph.D. program, I obtained my B. S. degree from the School of Gifted Young, [University of Science and Technology of China](https://en.ustc.edu.cn) (USTC), in 2017.
 
-My research focuses on learn-to-optimize, meta-learning and deep learning,
-recently in particular safeguarding learn-to-optimize models from failure cases
-and introducing meta-learning to neural architecture search and medical application.
+My research focuses on learn-to-optimize, meta-learning and general deep learning, recently in particular lottery ticket hypothesis and network analysis in neural networks.
 I am also actively working on (energy-)efficient inference/training for deep neural
 networks. Here is my [CV](files/cv.pdf).
 
-Recently I finished my research internship at Max Planck Institute for
-Intelligent Systems in Tübingen, Germany, in collaboration with
-[Dr. Krikmol Muandet](http://krikamol.org/) and
-[Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang), on the topic of
-meta-learning.
-
-I will join Microsoft AI & Cloud as research intern in 2020 Summer.
+Recently I finished my research internship at Microsoft AI & Cloud, supervised by [Dr. Yu Cheng](https://sites.google.com/site/chengyu05) and [Zhe Gan](https://zhegan27.github.io/).

@@ -58,12 +58,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "chernxh@tamu.edu"
+email = "xiaohan.chen@utexas.edu"
 # phone = ""
-address = "407 Harvey R Bright Building\nTexas A&M University\nCollege Station, TX, 77843, United States"
+# address = "407 Harvey R Bright Building\nTexas A&M University\nCollege Station, TX, 77843, United States"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Wed 4:30 - 5:30 pm or email for appointment"""
+# office_hours = """Wed 4:30 - 5:30 pm or email for appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
