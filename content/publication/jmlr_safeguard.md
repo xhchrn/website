@@ -1,10 +1,10 @@
 +++
-title = "SmartExchange: Trading Higher-cost Memory Storage/Access for Lower-cost Computation "
-date = 2020-05-30T00:00:01
+title = "Safeguarded Learned Convex Optimization"
+date = 2020-08-17T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["***X. Chen**", "Y. Zhao", "Y. Wang", "C. Li", "Y. Xie", "Z. Wang", "Y. Lin"]
+authors = ["H. Heaton", "**X. Chen**", "Z. Wang", "W. Yin"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["***X. Chen**", "Y. Zhao", "Y. Wang", "C. Li", "Y. Xie", "Z. Wang", "
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*the 47th IEEE/ACM International Symposium on Computer Architecture*"
-publication_short = "ISCA '20"
+publication = "*Under review in Journal of Machine Learning Research*"
+publication_short = "Under review in JMLR"
 
 # Abstract and optional shortened version.
-abstract = "We present SmartExchange, a hardware-algorithm co-design framework to trade higher cost memory storage/access for lower cost computation, for energy-efficient inference of deep neural networks (DNNs). We have developed a novel algorithm to enforce a specially favorable DNN weight structure, where each layerwise weight matrix can be stored as the product of a small basis matrix and a large sparse coefficient matrix whose non-zero elements are all power-of-2. The resulting sparse and readily-quantized DNN thus enjoys greatly reduced energy consumption of data movement as well as weight storage. To fully explore the potential of SmartExchange, we further design a dedicated accelerator to fully utilize the SmartExchange-enforced weights to improve both energy efficiency and latency. Extensive experiments using four DNN models show that the proposed accelerator can achieve up to 4.9×and 9.6×improvement in energy efficiency and energy-delay product, respectively, as compared to state-of-the-art DNN accelerators."
+abstract = "Many applications require repeatedly solving a certain type of optimization problem, eachtime with new (but similar) data. Data-driven algorithms can “learn to optimize” (L2O) with much fewer iterations and with similar cost per iteration as general-purpose optimiza-tion algorithms. L2O algorithms are often derived from general-purpose algorithms, butwith the inclusion of (possibly many) tunable parameters. Exceptional performance hasbeen demonstrated when they are optimized for a particular distribution of data. Unfor-tunately, it is impossible to ensure all L2O algorithmsalwaysconverge to a solution. Wehereby present a framework that uses L2O updates together with a safeguard to guaranteeconvergence for convex problems with proximal and/or gradient oracles. The safeguard issimple and computationally cheap to implement, and it is activated only when the currentL2O updates would perform poorly or appear to diverge. This approach yields the numer-ical benefits of employing machine learning methods to create rapid L2O algorithms whilestill guaranteeing convergence. Our numerical examples demonstrate the efficacy of thisapproach for existing and new L2O schemes."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -44,7 +44,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2003.01880"
 url_code = ""
 url_dataset = ""
 url_project = ""

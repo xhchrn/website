@@ -1,5 +1,5 @@
 +++
-title = "ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA "
+title = "ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA"
 date = 2019-01-01T00:00:01
 draft = false
 

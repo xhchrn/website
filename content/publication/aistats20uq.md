@@ -1,6 +1,6 @@
 +++
 title = "Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery"
-date = 2020-08-17T00:00:01
+date = 2020-08-16T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

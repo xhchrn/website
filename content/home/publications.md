@@ -68,5 +68,5 @@ subtitle = ""
 
 \* The authors contribute equally.
 
-Recently I have several submissions to NeurIPS 2020 and one to Journal of Machine Learning Research (JMLR).
+Several double blind submissions under NeurIPS review.
 
