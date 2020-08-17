@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of Advances in Neural Information Processing Systems* 2018"
-publication_short = "NeurIPS '18"
+publication_short = "NeurIPS 2018"
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*The International Conference on Machine Learning* 2019"
-publication_short = "ICML '19"
+publication_short = "ICML 2019"
 
 # Abstract and optional shortened version.
 abstract = ""

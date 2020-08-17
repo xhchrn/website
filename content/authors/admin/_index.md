@@ -29,13 +29,15 @@ interests:
 - Meta Learning
 - Efficient Deep Learning
 - Sparse Neural Networks
-- Lottery Ticket Hypothesis
 
 education:
   courses:
+  - course: ECE (DICE Track)
+    institution: University of Texas at Austin
+    year: 2020 - Present
   - course: Computer Science
     institution: Texas A&M University
-    year: 2017-2020
+    year: 2017 - 2020
   - course: BSc in Applied Mathematics
     institution: University of Science and Technology of China
     year: 2017
@@ -76,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Howdy! I am a Ph.D. student (since 2017) in the Electrical and Computer Engineering Department (DICE), University of Texas at Austin.
+Hi there! I am a Ph.D. student (since 2017) in the Electrical and Computer Engineering Department (DICE Track), University of Texas at Austin.
 I am a research assistant in the  **V**isual **I**nformatics Group @ University of **T**exas at **A**ustin ([VITA Group](https://vita-group.github.io/)), led by [Prof. Zhangyang Wang](https://www.atlaswang.com/).
 Before I moved to UT Austin in Aug 2020, I was a Ph.D. student in the Computer Science and Engineering Department, Texas A&M University.
 I also closely work with [Prof. Wotao Yin](http://www.math.ucla.edu/~wotaoyin/), in the Mathematics department, UCLA.
@@ -84,5 +86,3 @@ Prior to the start of my Ph.D. program, I obtained my B. S. degree from the Scho
 
 My research focuses on learn-to-optimize, meta-learning and efficient deep learning, and sparse neural networks, recently in particular the lottery ticket hypothesis and network analysis in neural networks.
 Here is my [CV](files/cv.pdf).
-
-Recently I finished my research internship at Microsoft AI & Cloud, supervised by [Dr. Yu Cheng](https://sites.google.com/site/chengyu05) and [Zhe Gan](https://zhegan27.github.io/).

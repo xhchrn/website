@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*International Conference on Artificial Intelligence and Statistics*"
-publication_short = "AISTATS '20"
+publication_short = "AISTATS 2020"
 
 # Abstract and optional shortened version.
 abstract = "Activity recognition in wearable computing faces two key challenges: i) activity characteristics may be context-dependent and change under different contexts or situations; ii) unknown contexts and activities may occur from time to time, requiring flexibility and adaptability of the algorithm. We develop a context-aware mixture of deep models termed the α-β network coupled with uncertainty quantification (UQ) based upon maximum entropy to enhance human activity recognition performance (accuracy and F-score) by 10% through identifying high-level contexts in a data-driven way to guide model development. In order to ensure the training stability, we have used a clustering based pretraining which has shown to be effective in our experiments in both public and an in-house dataset, demonstrating improved accuracy through unknown context discovery"

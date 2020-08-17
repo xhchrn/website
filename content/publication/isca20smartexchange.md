@@ -4,7 +4,7 @@ date = 2020-05-30T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["***X. Chen**", "Y. Zhao", "Y. Wang", "C. Li", "Y. Xie", "Z. Wang", "Y. Lin"]
+authors = ["***X. Chen**", "*Y. Zhao", "Y. Wang", "C. Li", "Y. Xie", "Z. Wang", "Y. Lin"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*the 47th IEEE/ACM International Symposium on Computer Architecture*"
-publication_short = "ISCA '20"
+publication_short = "ISCA 2020"
 
 # Abstract and optional shortened version.
 abstract = "We present SmartExchange, a hardware-algorithm co-design framework to trade higher cost memory storage/access for lower cost computation, for energy-efficient inference of deep neural networks (DNNs). We have developed a novel algorithm to enforce a specially favorable DNN weight structure, where each layerwise weight matrix can be stored as the product of a small basis matrix and a large sparse coefficient matrix whose non-zero elements are all power-of-2. The resulting sparse and readily-quantized DNN thus enjoys greatly reduced energy consumption of data movement as well as weight storage. To fully explore the potential of SmartExchange, we further design a dedicated accelerator to fully utilize the SmartExchange-enforced weights to improve both energy efficiency and latency. Extensive experiments using four DNN models show that the proposed accelerator can achieve up to 4.9×and 9.6×improvement in energy efficiency and energy-delay product, respectively, as compared to state-of-the-art DNN accelerators."

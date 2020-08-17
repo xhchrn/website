@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 75  # Order that this section will appear.
+weight = 71  # Order that this section will appear.
 
 title = "Professional Experience"
 subtitle = ""
@@ -69,7 +69,7 @@ subtitle = ""
 +++
 
 * [Jun. 2020 - Aug. 2020]  Research intern.  
- Microsoft AI & Cloud, Bellevue, WA, U.S.  
+ Microsoft Cloud & AI, Bellevue, WA, U.S.  
  Mentor(s): [Dr. Yu Cheng](https://sites.google.com/site/chengyu05), [Dr. Zhe Gan](https://zhegan27.github.io).
 * [Jun. 2019 - Nov. 2019]  Research intern.  
  Max Planck Institute for Intelligent Systems, Tübingen, Germany.  

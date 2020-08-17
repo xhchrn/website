@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of Advances in Neural Information Processing Systems* 2018"
-publication_short = "NeurIPS '18, **Spotlight Oral**"
+publication_short = "NeurIPS 2018, **Spotlight Oral**"
 
 # Abstract and optional shortened version.
 abstract = "In recent years, unfolding iterative algorithms as neural networks has become an empirical success in solving sparse recovery problems. However, its theoretical understanding is still immature, which prevents us from fully utilizing the power of neural networks. In this work, we study unfolded ISTA (Iterative Shrinkage Thresholding Algorithm) for sparse signal recovery. We introduce a weight structure that is necessary for asymptotic convergence to the true sparse signal. With this structure, unfolded ISTA can attain a linear convergence, which is better than the sublinear convergence of ISTA/FISTA in general cases. Furthermore, we propose to incorporate thresholding in the network to perform support selection, which is easy to implement and able to boost the convergence rate both theoretically and empirically. Extensive simulations, including sparse vector recovery and a compressive sensing experiment on real image data, corroborate our theoretical results and demonstrate their practical usefulness."
