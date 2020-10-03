@@ -68,5 +68,4 @@ subtitle = ""
 
 \* The authors contribute equally.
 
-Several double blind submissions under NeurIPS review.
-
+Several double blind submissions under ICLR review.
