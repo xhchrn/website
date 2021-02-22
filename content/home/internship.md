@@ -71,6 +71,8 @@ subtitle = ""
 * Microsoft Cloud & AI, Research Intern.
   * Mentor(s): [Dr. Yu Cheng](https://sites.google.com/site/chengyu05), [Dr. Zhe Gan](https://zhegan27.github.io).
   * Jun. 2020 - Aug. 2020
+  * Oct. 2020 - Dec. 2020
+  * May. 2021 - Aug. 2021
 * Max Planck Institute for Intelligent Systems, Research Intern.
   * Mentor(s): [Dr. Krikamol Muandet](http://www.krikamol.org), [Dr. Siyu Tang](https://ps.is.tuebingen.mpg.de/person/stang).
   * Jun. 2019 - Nov. 2019
