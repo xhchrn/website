@@ -1,6 +1,6 @@
 +++
 title = "Learning A Minimax Optimizer: A Pilot Study"
-date = 2020-05-03T00:00:01
+date = 2020-02-01T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

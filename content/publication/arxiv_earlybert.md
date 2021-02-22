@@ -18,8 +18,8 @@ authors = ["**X. Chen**", "Y. Cheng", "S. Wang", "Z. Gan", "Z. Wang", "J. Liu"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv preprint"
-publication_short = "arXiv"
+publication = "arXiv pre-print"
+publication_short = "arXiv pre-print"
 
 # Abstract and optional shortened version.
 abstract = "Deep, heavily overparameterized language models such as BERT, XLNet and T5 have achieved impressive success in many NLP tasks. However, their high model complexity requires enormous computation resources and extremely long training time for both pre-training and fine-tuning. Many works have studied model compression on large NLP models, but only focus on reducing inference cost/time, while still requiring expensive training process. Other works use extremely large batch sizes to shorten the pre-training time at the expense of high demand for computation resources. In this paper, inspired by the Early-Bird Lottery Tickets studied for computer vision tasks, we propose EarlyBERT, a general computationally-efficient training algorithm applicable to both pre-training and fine-tuning of large-scale language models. We are the first to identify structured winning tickets in the early stage of BERT training, and use them for efficient training. Comprehensive pre-training and fine-tuning experiments on GLUE and SQuAD downstream tasks show that EarlyBERT easily achieves comparable performance to standard BERT with 35~45% less training time."
