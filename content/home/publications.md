@@ -68,4 +68,4 @@ subtitle = ""
 
 \* The authors contribute equally.
 
-One double-blind submission under ICML review.
+Four double-blind submissions under NeurIPS 2021 review.
