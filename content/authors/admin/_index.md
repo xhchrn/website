@@ -85,4 +85,4 @@ I also closely work with [Prof. Wotao Yin](http://www.math.ucla.edu/~wotaoyin/),
 Prior to the start of my Ph.D. program, I obtained my B. S. degree from the School of Gifted Young, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn)), in 2017.
 
 My research focuses on learn-to-optimize, meta-learning and efficient deep learning, and sparse neural networks, recently in particular the lottery ticket hypothesis and network analysis in neural networks.
-Here is my [CV](files/cv.pdf).
+Here is my [CV](files/cv_public.pdf).
