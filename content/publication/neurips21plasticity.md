@@ -1,6 +1,6 @@
 +++
 title = "Sparse Training via Boosting Pruning Plasticity with Neuroregeneration"
-date = 2021-12-11T00:00:01
+date = 2021-09-29T00:00:02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -1,6 +1,6 @@
 +++
 title = "Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?"
-date = 2021-12-10T00:00:01
+date = 2021-09-29T00:00:01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

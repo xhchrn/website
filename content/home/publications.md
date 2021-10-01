@@ -67,5 +67,3 @@ subtitle = ""
 +++
 
 \* The authors contribute equally.
-
-Four double-blind submissions under NeurIPS 2021 review.
