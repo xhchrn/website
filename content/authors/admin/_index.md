@@ -78,11 +78,10 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I am a Ph.D. student (since 2017) in the Electrical and Computer Engineering Department (DICE Track), University of Texas at Austin.
-I am a research assistant in the  **V**isual **I**nformatics Group @ University of **T**exas at **A**ustin ([VITA Group](https://vita-group.github.io/)), led by [Prof. Zhangyang Wang](https://www.atlaswang.com/).
-Before I moved to UT Austin in Aug 2020, I was a Ph.D. student in the Computer Science and Engineering Department, Texas A&M University.
-I also closely work with [Prof. Wotao Yin](http://www.math.ucla.edu/~wotaoyin/), in the Mathematics department, UCLA.
+Hi there! I am currently a senier algorithm engineer at Decision Intelligence Lab (DI) at DAMO Acedamy in Alibaba Group, in close collaboration with [Dr. Wotao Yin](http://www.math.ucla.edu/~wotaoyin/).
+I obtained my Ph.D. degree in Electrical and Computer Engineering Department in 2022 at the University of Texas at Austin.
+I was fortunate to have worked in the  **V**isual **I**nformatics Group @ University of **T**exas at **A**ustin ([VITA Group](https://vita-group.github.io/)) under the supervision of [Prof. Zhangyang Wang](https://vita-group.github.io/research.html).
 Prior to the start of my Ph.D. program, I obtained my B. S. degree from the School of Gifted Young, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn)), in 2017.
 
-My research focuses on learn-to-optimize, meta-learning and efficient deep learning, and sparse neural networks, recently in particular the lottery ticket hypothesis and network analysis in neural networks.
+My research focuses on large language models, learn-to-optimize, meta-learning and efficient deep learning, and sparse neural networks, recently in particular the lottery ticket hypothesis and network analysis in neural networks.
 Here is my [CV](files/cv_public.pdf).
